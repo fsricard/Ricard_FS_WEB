@@ -80,10 +80,10 @@ Si escuchas risitas malévolas… funciona.
 ## 🔥 Capturas del Infierno
 
 ### 😈 Aquí empieza tu condena visual  
-![Captura 1](Ricard_FS_WEB/img/diablillo_20260426_0001.png)
+![Captura 1](/img/diablillo_20260426_0001.png)
 
 ### 😈 El rincón donde el diablillo te juzga  
-![Captura 2](Ricard_FS_WEB/img/diablillo_20260426_0002.png)
+![Captura 2](/img/diablillo_20260426_0002.png)
 
 ---
 
