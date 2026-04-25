@@ -1,0 +1,38 @@
+# ============================================
+#   RICARD FS - .gitignore COMPLETO
+# ============================================
+
+# ------------------------------
+#  Carpetas privadas del proyecto
+# ------------------------------
+admin/panel_infernal/
+admin/includes/php/
+logs/
+
+# Archivos privados específicos
+admin/aa.php
+views/aa.php
+
+# ------------------------------
+#  Configuración local / sensible
+# ------------------------------
+config/database.php
+config/.env
+*.env
+Leeme.txt
+
+# ------------------------------
+#  Archivos temporales y cachés
+# ------------------------------
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# ------------------------------
+#  VSCode
+# ------------------------------
+.vscode/
