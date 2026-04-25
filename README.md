@@ -190,7 +190,7 @@ Solución: Bienvenido al infierno real. Revisa permisos, rutas absolutas y tu pa
 ## 👹 Autor
 
 Ricard FS  
-Creador del Arca de Noemí, domador de bugs y padre adoptivo del Diablillo Sarcástico.
+Creador del Arca de Noemí y la Gatopía de Miriam, domador de bugs y padre adoptivo del Diablillo Sarcástico.
 
 ---
 
