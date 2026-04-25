@@ -77,6 +77,16 @@ Si escuchas risitas malévolas… funciona.
 
 ---
 
+## 🔥 Capturas del Infierno
+
+### 😈 Aquí empieza tu condena visual  
+![Captura 1](Ricard_FS_WEB/img/diablillo_20260426_0001.png)
+
+### 😈 El rincón donde el diablillo te juzga  
+![Captura 2](Ricard_FS_WEB/img/diablillo_20260426_0002.png)
+
+---
+
 ## 😈 Frases del Diablillo
 
 - “¿Otra vez por aquí? Pensaba que hoy ibas a ser productivo.”  
