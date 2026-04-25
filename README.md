@@ -81,7 +81,7 @@ Si escuchas risitas malévolas… funciona.
 ## 🔥 Instalación avanzada (para almas valientes)
 
 1. Clonar el repositorio desde el inframundo:  
-   git clone https://github.com/RicardFS/Ricard_FS_WEB.git
+   git clone https://github.com/fsricard/Ricard_FS_WEB.git
 
 2. Entrar en el círculo infernal del proyecto:  
    cd Ricard_FS_WEB
