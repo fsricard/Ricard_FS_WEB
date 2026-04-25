@@ -4,7 +4,7 @@
 
 ### _Tu asistente digital con más mala leche que un lunes sin café_
 
-<img src="https://cdn-icons-png.flaticon.com/512/482/482059.png" width="120" alt="Diablillo">
+<img src="/img/logo_0001.png" width="120" alt="Diablillo">
 
 ---
 
