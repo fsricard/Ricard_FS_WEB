@@ -189,8 +189,17 @@ Solución: Bienvenido al infierno real. Revisa permisos, rutas absolutas y tu pa
 
 ## 👹 Autor
 
-Ricard FS  
-Creador del Arca de Noemí y la Gatopía de Miriam, domador de bugs y padre adoptivo del Diablillo Sarcástico.
+- Ricard FS, creador de:
+
+1. El Arca de Noemí (En desarrollo) - <a href="https://github.com/fsricard/El_Arca_de_Noemi" target="_blank">GitHub</a>
+2. La Gatopía de Miriam  - <a href="https://lagatopiademiriam.com/" target="_blank">La Gatopía de Miriam</a>
+3. El Diablillo Sarcástico (En desarrollo) - <a href="https://github.com/fsricard/Ricard_FS_WEB" target="_blank">GitHub</a>
+
+---
+
+## 🐾 Licencia
+
+Este proyecto se distribuye bajo licencia MIT.
 
 ---
 
