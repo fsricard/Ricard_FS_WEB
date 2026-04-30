@@ -50,17 +50,47 @@ Vamos, lo que viene siendo un asistente digital con actitud.
 
 ## 📁 Estructura del proyecto
 
-(admin)  
- (includes)  
- (panel_infernal)  
-(assets)  
- (img)  
- (css)  
- (js)  
-(config)  
-(views)  
-index.php  
-README.md
+- (raíz del proyecto)  
+   - admin
+      - css
+      - includes
+         - php
+      - modulos
+         - base_de_datos
+            - ajax
+         - blog
+            - ajax
+            - cron
+            - includes partials
+         - documentos
+         - frases
+      - .htaccess
+      - dashboard.php
+      - index.php
+      - logout.php
+   - ajax
+   - config
+      - .env
+      - database.php
+      - envLoader.php
+      - funciones.php
+   - css
+      - fontawesome
+         - css
+         - webfonts
+   - img
+   - includes
+      - aside
+      - fpdf
+      - PHPMailer
+   - uploads
+      - blog
+      - papelera
+   - views
+- .gitignore
+- .htaccess
+- index.php
+- README.md
 
 _(Las partes infernales y secretas están protegidas por .gitignore, como debe ser.)_
 
