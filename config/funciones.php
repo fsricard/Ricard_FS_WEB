@@ -220,26 +220,45 @@ function mostrarAlerta(string $mensaje, string $tipo = 'success'): string {
 }
 
 // Función para crear rutas absolutas
-function base_url(): string {
-    $protocolo = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https://' : 'http://';
+function base_url(): string
+{
+    // Detectar protocolo
+    $protocolo = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off')
+        ? 'https://'
+        : 'http://';
+
+    // Host (dominio + puerto)
     $host = $_SERVER['HTTP_HOST'];
 
-    // Detectar la carpeta raíz del proyecto
-    // DOCUMENT_ROOT = /var/www/html
-    // __DIR__ = /var/www/html/config
-    // Resultado = / (raíz del proyecto)
-    $rootPath = realpath($_SERVER['DOCUMENT_ROOT']);
+    // Ruta absoluta del proyecto
     $projectPath = realpath(__DIR__ . '/..');
 
-    // Calcular subcarpeta si el proyecto no está en la raíz del servidor
-    $subcarpeta = str_replace($rootPath, '', $projectPath);
+    // Ruta absoluta del DOCUMENT_ROOT
+    $rootPath = realpath($_SERVER['DOCUMENT_ROOT']);
 
+    // Calcular subcarpeta correctamente
+    $subcarpeta = str_replace('\\', '/', $projectPath);
+    $rootPath   = str_replace('\\', '/', $rootPath);
+
+    $subcarpeta = str_replace($rootPath, '', $subcarpeta);
+
+    // Asegurar que empieza con "/"
+    $subcarpeta = '/' . ltrim($subcarpeta, '/');
+
+    // Asegurar que NO termina con "/"
     return rtrim($protocolo . $host . $subcarpeta, '/');
 }
 
 // Genera rutas absolutas correctas para assets.
-function asset(string $ruta): string {
-    return base_url() . '/' . ltrim($ruta, '/');
+function asset(string $ruta): string
+{
+    // Asegura que base_url() NO termina con "/"
+    $base = rtrim(base_url(), '/');
+
+    // Asegura que la ruta SÍ empieza con "/"
+    $ruta = '/' . ltrim($ruta, '/');
+
+    return $base . $ruta;
 }
 
 // Función para guardar el slug de los artículos limpio
