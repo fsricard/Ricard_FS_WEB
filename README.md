@@ -222,8 +222,9 @@ Solución: Bienvenido al infierno real. Revisa permisos, rutas absolutas y tu pa
 - **Ricard FS**, creador de:
 
 1. **El Arca de Noemí** (*En desarrollo*) - [GitHub](https://github.com/fsricard/El_Arca_de_Noemi)
-2. **La Gatopía de Miriam**  - [La Gatopía de Miriam](https://lagatopiademiriam.com/)
+2. **El Huerto de la Gatopía** (*En desarrollo*) - [github](https://github.com/fsricard/El_huerto_de_la_Gatopia)
 3. **El Diablillo Sarcástico** (*En desarrollo*) - [GitHub](https://github.com/fsricard/Ricard_FS_WEB)
+4. **La Gatopía de Miriam** (*En producción*)  - [La Gatopía de Miriam](https://lagatopiademiriam.com/)
 
 ---
 
@@ -238,3 +239,4 @@ Este proyecto se distribuye bajo licencia MIT.
 ### 😈 _“No soy malo… solo estoy programado así.”_ 😈
 
 </div>
+
