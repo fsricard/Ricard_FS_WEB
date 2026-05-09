@@ -226,6 +226,7 @@ Solución: Bienvenido al infierno real. Revisa permisos, rutas absolutas y tu pa
 3. **El Diablillo Sarcástico** (*En desarrollo*) - [GitHub](https://github.com/fsricard/Ricard_FS_WEB)
 4. **La Gatopía de Miriam** (*En producción*)  - [La Gatopía de Miriam](https://lagatopiademiriam.com/)
 5. **Lanzador de procesos Pro para el Arca de Noemí** (*En producción*)  - [GitHub](https://github.com/fsricard/Lanzador_Pro_el_Arca_de_Noemi)
+6. **Lanzador de procesos Pro para el Huerto de la Gatopía** (*En desarrollo*)  - [GitHub](https://github.com/fsricard/Lanzador_Pro_el_Huerto_de_la_Gatopia)
 
 ---
 
@@ -240,4 +241,3 @@ Este proyecto se distribuye bajo licencia MIT.
 ### 😈 _“No soy malo… solo estoy programado así.”_ 😈
 
 </div>
-
