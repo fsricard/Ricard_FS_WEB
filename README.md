@@ -224,12 +224,13 @@ Solución: Bienvenido al infierno real. Revisa permisos, rutas absolutas y tu pa
 1. **El Arca de Noemí** (*En desarrollo*) - [GitHub](https://github.com/fsricard/El_Arca_de_Noemi)
 2. **El Huerto de la Gatopía** (*En desarrollo*) - [github](https://github.com/fsricard/El_huerto_de_la_Gatopia)
 3. **El Diablillo Sarcástico** (*En desarrollo*) - [GitHub](https://github.com/fsricard/Ricard_FS_WEB)
-4. **La Gatopía de Miriam** (*En producción*)  - [La Gatopía de Miriam](https://lagatopiademiriam.com/)
-5. **Global License** (*En producción*) - [GitHub](https://github.com/fsricard/Global_License)
-6. **Lanzador de procesos Pro para el Arca de Noemí** (*En producción*)  - [GitHub](https://github.com/fsricard/Lanzador_Pro_el_Arca_de_Noemi)
-7. **Lanzador de procesos Pro para el Huerto de la Gatopía** (*En producción*)  - [GitHub](https://github.com/fsricard/Lanzador_Pro_el_Huerto_de_la_Gatopia)
-8. **Lanzador de procesos Pro para Ricard FS WEB (El Diablillo Sarcástico)** (*En producción*) - [GitHub](https://github.com/fsricard/Lanzador_Pro_Ricard_FS_WEB)
-9. **Maya Refined - Theme personalizado para Directory Opus basado en el Skin Maya de WindowsBlind** (*En desarrollo*) [GitHub](https://github.com/fsricard/Maya_Refined_v0.1)
+4. **Cromos Mundial 2026** (*En desarrollo*) - [GitHub](https://github.com/fsricard/Cromos_Mundial_2026)
+5. **La Gatopía de Miriam** (*En producción*)  - [La Gatopía de Miriam](https://lagatopiademiriam.com/)
+6. **Global License** (*En producción*) - [GitHub](https://github.com/fsricard/Global_License)
+7. **Lanzador de procesos Pro para el Arca de Noemí** (*En producción*)  - [GitHub](https://github.com/fsricard/Lanzador_Pro_el_Arca_de_Noemi)
+8. **Lanzador de procesos Pro para el Huerto de la Gatopía** (*En producción*)  - [GitHub](https://github.com/fsricard/Lanzador_Pro_el_Huerto_de_la_Gatopia)
+9. **Lanzador de procesos Pro para Ricard FS WEB (El Diablillo Sarcástico)** (*En producción*) - [GitHub](https://github.com/fsricard/Lanzador_Pro_Ricard_FS_WEB)
+10. **Lanzador de procesos Pro para Cromos Mundial 2026** (*En producción*) - [GitHub](https://github.com/fsricard/Lanzador_Pro_Cromos_Mundial_2026)
 
 ---
 
